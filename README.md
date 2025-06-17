@@ -1,6 +1,6 @@
 ## Hi there, I'm Thinh, a software engineering student 👋:
 - Studying at The College of Information and Communication Technology, Can Tho, Viet Nam
-- 🌱 I’m currently learning Java, Javascript, .Net,...
+- 🌱 I’m currently learning Java, Javascript, NodeJS,...
 
 <!--
 **Chau-Phu-Thinh/Chau-Phu-Thinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
